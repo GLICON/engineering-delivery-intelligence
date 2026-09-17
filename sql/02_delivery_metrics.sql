@@ -1,0 +1,3 @@
+-- 02_delivery_metrics.sql
+-- Phase 8: Core delivery metrics (PR cycle time, lead time, deployment
+-- frequency, etc). To be populated in Phase 8.

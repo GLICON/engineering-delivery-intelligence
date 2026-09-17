@@ -1,0 +1,3 @@
+-- 05_incident_analysis.sql
+-- Phase 8: Incident and reliability analysis (change failure rate,
+-- time to restore). To be populated in Phase 8.

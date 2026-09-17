@@ -1,0 +1,3 @@
+-- 01_data_quality.sql
+-- Phase 7: Data quality checks (duplicates, nulls, invalid timestamps,
+-- broken relationships, row counts). To be populated in Phase 7.
