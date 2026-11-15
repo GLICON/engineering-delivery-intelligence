@@ -1,0 +1,13 @@
+repo,releases_per_month,median_lead_time_days,change_failure_rate_pct,median_days_to_restore,revert_rate_pct,median_cycle_days,prs_merged
+fluent/fluentd,1.7,13.3,11.0,5.4,0.0,1.8,161
+jaegertracing/jaeger,1.0,25.6,21.1,0.9,0.0,0.9,390
+coredns/coredns,1.1,30.6,12.5,1.6,0.0,0.2,207
+prometheus/prometheus,1.5,32.9,25.0,3.2,0.19,1.1,526
+goharbor/harbor,1.0,43.1,0.0,,0.21,0.9,466
+envoyproxy/envoy,0.8,55.1,7.3,0.3,1.27,3.1,1181
+kubernetes/kubernetes,4.0,58.5,17.0,3.5,1.05,3.4,7968
+rook/rook,1.4,61.2,13.4,4.1,0.22,1.8,913
+helm/helm,1.4,62.4,20.5,4.0,0.5,1.9,808
+containerd/containerd,0.9,102.6,9.4,4.0,0.3,0.8,331
+vitessio/vitess,0.2,118.8,8.3,1.8,0.5,1.1,199
+tikv/tikv,1.9,195.3,4.2,5.1,0.23,2.1,437

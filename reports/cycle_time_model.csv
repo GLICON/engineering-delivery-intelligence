@@ -1,0 +1,8 @@
+factor,pct_change,low,high,p_value
+Lines changed (per doubling),7.591,5.693,9.524,0.0
+Files changed (per doubling),0.229,-3.11,3.684,0.895
+Commits (per doubling),39.823,32.965,47.035,0.0
+Review comments (per doubling),52.187,49.341,55.087,0.0
+Fixes more than one issue,-11.706,-24.005,2.582,0.104
+Issue raised by a non-maintainer,40.438,32.679,48.65,0.0
+PR opened at the weekend,62.558,48.341,78.137,0.0
